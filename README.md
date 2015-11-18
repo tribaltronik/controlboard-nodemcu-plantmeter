@@ -1,7 +1,7 @@
 # controlboard-nodemcu-plantmeter
-Plant humidity meter
+##Plant humidity meter
 
-## Files to program with Esplorer:
+#### Files to program with Esplorer:
 http://esp8266.ru/esplorer/
 
 - application.lua
