@@ -1,4 +1,5 @@
-# controlboard-nodemcu-plantmeter
+# ControlBoard NodeMCU Plant Humidity Meter
+http://controlboard.net
 ##Plant humidity meter
 
 #### Features:
