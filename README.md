@@ -1,6 +1,12 @@
 # controlboard-nodemcu-plantmeter
 ##Plant humidity meter
 
+#### Features:
+- Air Temperature;
+- Air Humidity;
+- Soil Humidity; 
+
+
 #### Files to program with Esplorer:
 http://esp8266.ru/esplorer/
 
